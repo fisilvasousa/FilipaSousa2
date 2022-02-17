@@ -1,0 +1,188 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  color: #219F94;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: 'Dosis', sans-serif;
+  color: #219F94;
+  font-size: 2.7rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #219F94;
+  font-size: 2rem;
+}
+
+h4 {
+  font-weight: normal;
+}
+
+.Topdiv {
+  background-color: #FBF8F1;
+  padding-top: 20px;
+  padding-bottom: 200px;
+}
+
+.nome {
+  padding-bottom: 20px;
+  padding-top: 50px;
+}
+
+.profile {
+  background-color: #F8EDE3;
+  padding-bottom: 10px;
+}
+
+.Filipa {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.middle-container {
+  height: 5%;
+  width: 100%;
+  margin-bottom: 0;
+  background-color: #EADADA;
+  padding-bottom: 40px;
+}
+
+.bottom-container {
+  background-color: #E9DAC1;
+  height: 100px;
+  width: 100%;
+  margin-top: 0;
+  padding-top: 60px;
+}
+
+.eu {
+  padding-top: 100px;
+  height: 200px;
+  width: 200px;
+}
+.eu:hover {
+  height:250px;
+  width:250px;
+}
+.ola {
+  margin-top:0px;
+  margin-bottom:10px
+}
+
+.cook {
+  width: 23%;
+  float: left;
+  margin-top: 30px;
+  margin-right: 30px;
+}
+
+.photo {
+  width: 23%;
+  float: right;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.video {
+  width: 23%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+.nuvemtop {
+  position: absolute;
+  right: 300px;
+  padding-top: 50px;
+}
+.nuvemtop:hover {
+right:40px;
+
+}
+
+.nuvembottom {
+  position: absolute;
+  left: 200px;
+  padding-top: 100px;
+}
+.nuvembottom:hover {
+  left:40px;
+}
+.categorias {
+  width: 40%;
+  margin: 0 auto 0 auto;
+  padding-top: 20px;
+}
+
+.fundo {
+  width: 100%;
+  height: 50px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #BF8B67;
+  border-width: 4px;
+  width: 5%;
+}
+
+.hr1 {
+  padding-bottom: 0;
+  margin-top: 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  background: #b6a3ba;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #708896;
+  text-decoration: none;
+}
+
+.contact {
+  padding-bottom: 10px;
+  padding-top: 20px;
+  background-color: #986D8E;
+}
+.marca {
+  color:#219F94;
+}
+a {
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color:#87A8A4;
+}
+.Contacta {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
